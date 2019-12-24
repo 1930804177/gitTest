@@ -6,7 +6,6 @@
       <change afterPath="$PROJECT_DIR$/../study-spring/.idea/study-spring.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../study-spring/spring-01/spring-01.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../study-spring/study-spring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/will/GitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/will/GitTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577093299866</updated>
       <workItem from="1577093303232" duration="1122000" />
-      <workItem from="1577150784881" duration="845000" />
+      <workItem from="1577150784881" duration="1101000" />
     </task>
     <task id="LOCAL-00001" summary="GitTest">
       <created>1577093697965</created>
@@ -89,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577093697965</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加了isTrue">
+      <created>1577154316516</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577154316516</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,25 +103,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GitTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="GitTest" />
+    <MESSAGE value="添加了isTrue" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了isTrue" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="278" y="0" key="CommitChangelistDialog2" timestamp="1577093696012">
+    <state x="278" y="0" key="CommitChangelistDialog2" timestamp="1577154313314">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="278" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1577093696012" />
+    <state x="278" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1577154313314" />
     <state x="477" y="110" key="FileChooserDialogImpl" timestamp="1577093384151">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="477" y="110" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1577093384151" />
+    <state x="51" y="13" width="1242" height="677" key="MergeDialog" timestamp="1577154402106">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="51" y="13" width="1242" height="677" key="MergeDialog/0.0.1366.738@0.0.1366.738" timestamp="1577154402106" />
+    <state x="392" y="85" key="MultipleFileMergeDialog" timestamp="1577154402116">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="392" y="85" key="MultipleFileMergeDialog/0.0.1366.738@0.0.1366.738" timestamp="1577154402116" />
     <state x="0" y="3" width="1325" height="715" key="SettingsEditor" timestamp="1577154153367">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="0" y="3" width="1325" height="715" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1577154153367" />
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1577093786048">
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2" timestamp="1577154337327">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1577093786048" />
+    <state x="275" y="102" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1577154337327" />
     <state x="377" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1577150787376">
       <screen x="0" y="0" width="1366" height="738" />
     </state>

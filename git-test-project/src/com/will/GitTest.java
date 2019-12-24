@@ -14,9 +14,6 @@ public class GitTest {
     }
 
     public boolean isTrue(){
-        return false;
-    }
-    public boolean isTrue(){
         return true;
     }
 }
