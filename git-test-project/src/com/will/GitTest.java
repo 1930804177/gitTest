@@ -12,4 +12,7 @@ public class GitTest {
         System.out.println("will_lee");
         System.out.println("will_lee");
     }
+    public boolean isTrue(){
+        return true;
+    }
 }
